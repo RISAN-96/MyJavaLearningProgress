@@ -1,4 +1,4 @@
-package July7;/*
+package July07;/*
  Java Tutorial 3: Variables and Data Types in Java Programming
  variable is like a container - like a bottle who can contain water,
  components -

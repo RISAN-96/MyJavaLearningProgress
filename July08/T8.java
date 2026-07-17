@@ -1,4 +1,4 @@
-package July8;
+package July08;
 
 // Java Tutorial 08 : Operators, Types of Operators & Expressions in Java
 

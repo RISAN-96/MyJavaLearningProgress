@@ -1,4 +1,4 @@
-package July8;
+package July08;
 /*
  Java Tutorial 09 : Associativity of Operators in Java
  today we will learn which task is done first by java

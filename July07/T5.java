@@ -1,6 +1,6 @@
 //Java Tutorial: Getting User Input in Java
 
-package July7;
+package July07;
 
 import java.util.Scanner;
 

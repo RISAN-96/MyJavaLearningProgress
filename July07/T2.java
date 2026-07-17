@@ -1,4 +1,4 @@
-package July7;// Java Tutorial 1: Installation of JDK & IntelliJ IDEA
+package July07;// Java Tutorial 1: Installation of JDK & IntelliJ IDEA
 
 /* Java Tutorial 2: Basic Structure of a Java Program: Understanding our First Java Hello World Program
  we use PascalConvention for classes

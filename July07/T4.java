@@ -1,4 +1,4 @@
-package July7;/*
+package July07;/*
 Java Tutorial: Literals in Java
 
 In order to choose the data type we first need to find the type of data we want to store decimal , char or bool & how many bit it can take.
