@@ -1,4 +1,4 @@
-package July10.July9to10;
+package July10.July9;
 //Java Tutorial 18: Switch Case Statements in Java
 
 import java.util.Scanner;

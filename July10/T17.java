@@ -1,4 +1,4 @@
-package July10.July9to10;
+package July10.July9;
 //Java Tutorial 17: Relational and Logical Operators in Java
 // ==, !=, >=, <=, <, > - relational op
 // AND/&& op - evaluates to true if all the cond are true

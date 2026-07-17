@@ -1,4 +1,4 @@
-package July10.July9to10;
+package July09;
 /*
 Java Tutorial 10: Data Type of Expressions & Increment/Decrement Operators
 Resulting data type after arithmetic operation

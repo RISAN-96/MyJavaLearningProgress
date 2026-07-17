@@ -1,4 +1,4 @@
-package July10.July9to10;
+package July09;
 //Java Tutorial 14: String Methods in Java
 // java count from 0,1,2,3,4,5,..............
 

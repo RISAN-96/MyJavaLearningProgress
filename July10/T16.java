@@ -1,4 +1,4 @@
-package July10.July9to10;
+package July10.July9;
 // Java Conditionals: If-else Statement in Java
 // program can take decision using if else function
 // decisions making statement in java 1. If else statement, 2. Switch statement

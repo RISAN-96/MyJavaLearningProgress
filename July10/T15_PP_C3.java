@@ -1,4 +1,4 @@
-package July10.July9to10;
+package July10.July9;
 //Java Practice Questions on Strings: Practice Set on Java Strings (Must Solve!)
 
 public class T15_PP_C3 {
