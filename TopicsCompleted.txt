@@ -1,0 +1,40 @@
+T1 Introduction to Java + Installing Java JDK and IntelliJ IDEA for Java
+T2 Basic Structure of a Java Program: Understanding our First Java Hello World Program
+T3 Java Tutorial: Variables and Data Types in Java Programming
+T4 Java Tutorial: Literals in Java
+T5 Java Tutorial: Getting User Input in Java
+T6 Java Programming Exercise 1: CBSE Board Percentage Calculator
+T7 Java Tutorial: Chapter 1- Practice Set | Java Practice Problems With Solution
+T8 Java Tutorial: Operators, Types of Operators & Expressions in Java
+T9 Java Tutorial: Associativity of Operators in Java
+T10 Java Tutorial: Data Type of Expressions & Increment/Decrement Operators
+T11 Java Tutorial: Exercise 1 - Solutions + Shoutouts
+T12 Java Tutorial: Chapter 2 - Practice Set (Java Practice Questions)
+T13 Java Tutorial: Introduction to Strings
+T14 Java Tutorial: String Methods in Java
+T15 Java Practice Questions on Strings: Practice Set on Java Strings (Must Solve!)
+T16 Java Conditionals: If-else Statement in Java
+T17 Java Tutorial: Relational and Logical Operators in Java
+T18 Java Tutorial: Switch Case Statements in Java
+T19 Java Tutorial: Practice Questions On Conditionals & Switch Case
+T20 Java Programming Exercise 2: Rock, Paper Scissors Game in Java
+T21 Java Tutorial: While Loops in Java
+T22 Java Tutorial: The do-while loop in Java
+T23 Java Tutorial: The for Loop in Java
+T24 Java Tutorial: break and continue in Java
+T25 Java tutorial: Practice Questions on Loops
+T26 Java Tutorial: Introduction to Arrays
+T27 Java Tutorial: For Each Loop in Java
+T28 Java Tutorial: Multidimensional Arrays in Java
+T29 Java Tutorial: Practice Questions on Arrays in Java
+T30 How to Make IntelliJ IDEA look Amazing!
+T31 Java Tutorial: Methods in Java
+T32 Java Tutorial: Method Overloading in Java
+T33 Java Tutorial: Variable Arguments (VarArgs) in Java
+T34 Java Tutorial: Recursion in Java
+T35 Java Tutorial: Practice Questions on Java Methods
+T36 Java Tutorial: Introduction to Object Oriented Programming
+T37 Java Tutorial: Basic Terminologies in Object Oriented Programming
+T38 Java Tutorial: Creating Our Own Java Class
+T39 Java Tutorial: Basic Questions on Object Oriented Programming
+T40 Java Tutorial: Access modifiers, getters & setters in Java

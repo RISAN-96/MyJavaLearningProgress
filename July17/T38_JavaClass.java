@@ -10,7 +10,7 @@ class Employee {
         System.out.println("Employee name: " + name);
     }
     public void getSalary() {
-        System.out.println("Employee salary: " + salary);
+        System.out.println("Employee salary: " + salary); 
     }
 }
 
