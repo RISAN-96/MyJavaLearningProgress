@@ -4,6 +4,7 @@ package July07;
 
 import java.util.Scanner;
 
+// integer
 public class T5 {
     public static void main(String[] args) {
         System.out.println("Taking input from the user");
@@ -18,7 +19,7 @@ public class T5 {
         m2();
     }
 
-
+    // floating point number
     public static void m2() {
         System.out.println("Taking input from the user");
         Scanner input = new Scanner(System.in);
@@ -32,7 +33,7 @@ public class T5 {
         m3();
     }
 
-
+    // integer or not
     public static void m3() {
         System.out.println("Taking input from the user");
         Scanner input = new Scanner(System.in);
@@ -41,13 +42,14 @@ public class T5 {
         m4();
     }
 
+    // next method - only reads the first word
+    // nextLine - read the first sentence
     public static void m4() {
         System.out.println("Taking input from the user");
         Scanner input = new Scanner(System.in);
-        String str =  input.next(); //next only read the first word
+        String str = input.next(); //next only read the first word
         System.out.println(str);
-        String str1 =  input.nextLine(); //nextLine read the first sentence
+        String str1 = input.nextLine(); //nextLine read the first sentence
         System.out.println(str);
     }
-
 }

@@ -28,6 +28,5 @@ public class T6_EX {
         int sum1 = (sum * 100)/500;
         System.out.println("You have got " + sum1 + "% marks");
 
-
     }
 }
