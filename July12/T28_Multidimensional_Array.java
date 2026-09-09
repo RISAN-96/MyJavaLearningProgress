@@ -1,11 +1,11 @@
 package July12;
             //Java Tutorial: Multidimensional Arrays in Java
-            //Array inside array inside array inside array
+            //Array - inside array = inside array - inside array
 
 public class T28_Multidimensional_Array {
     public static void main(String[] args) {
         int [] marks; // single array
-        int [][] twoDimensions; //2d array
+        int [][] twoDimensions; // 2d array
         twoDimensions = new int[2][3]; // means two row 7 3 column
         twoDimensions[0][0]=101;
         twoDimensions[0][1]=102;

@@ -18,7 +18,6 @@ public class T31_1_ObjectCallingMethod {
         int b = 3;
         int c;
         T31_1_ObjectCallingMethod obj = new T31_1_ObjectCallingMethod();
-
         c = obj.logic(a, b);
         System.out.println(c);
 

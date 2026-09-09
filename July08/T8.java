@@ -5,6 +5,7 @@ package July08;
 public class T8 {
     public static void main(String[] args){
         // arithmetic operators - cant works with booleans, % works with float & doubles
+        System.out.println("arithmetic operator");
         int a = 4;
         int b = 6 + a; // +,-,x,/ can be done
         System.out.println(b);
@@ -18,11 +19,13 @@ public class T8 {
         System.out.println(a1%a2); // return decimal remainder
 
         // assignment operators
+        System.out.println("assignment operator");
         int e = 4;
         e += 6; // add 6 with e
         System.out.println(e);
 
         // comparison operators
+        System.out.println("comparison operators");
         int f = 5;
         int g = 4;
         System.out.println(f==g);
@@ -31,6 +34,7 @@ public class T8 {
         System.out.println(f!=g);
 
         // logical operators - && checks all the conditions - || wants any of them to be true
+        System.out.println("logical operators");
         int h = 5;
         int i = 4;
         System.out.println(h>i && h>8 && h<80); // if any of the condition get false the ans will be false

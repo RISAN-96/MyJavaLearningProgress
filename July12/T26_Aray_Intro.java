@@ -9,7 +9,7 @@ public class T26_Aray_Intro {
         1. int[]a;  // declare!
         a = new int[1]; // memory allocation!
         2. int[]b=new int[2];
-        3.int[]c={100,20,300,40,55};*/
+        3. int[]c={100,20,300,40,55};*/
 
         int[]marks = new int[5];
         marks[0] = 100;

@@ -31,6 +31,8 @@ public class T17 {
         System.out.println("For logical NOT...."); // invert the ans
         System.out.print("NOT (a) is ");
         System.out.println(!a);
+        System.out.print("NOT (b) is ");
+        System.out.println(!b);
         System.out.print("NOT (c) is ");
         System.out.println(!c);
     }

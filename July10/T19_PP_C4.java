@@ -54,7 +54,7 @@ public class T19_PP_C4 {
             System.out.println("Congratulations, You have been promoted");
         }
         else {
-            System.out.println("Try Again");
+            System.out.println("Failed! Try Harder Again");
         }
 
 /*
@@ -84,7 +84,7 @@ public class T19_PP_C4 {
             tax += (income -10f) * 30f / 100f;
         }
         System.out.println("Your tax is: " + tax * 100000 + " taka");
-        System.out.println("Your tax is: " + tax  + " laks taka12");
+        System.out.println("Your tax is: " + tax  + " Laks taka");
 
 
 

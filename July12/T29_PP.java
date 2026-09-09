@@ -3,7 +3,8 @@ package July12;
 
 public class T29_PP {
     public static void main(String[] args) {
-/*        PP1: Create a array of 5 flats & calculate their sum;
+/*
+//        PP1: Create a array of 5 flats & calculate their sum;
         int sum = 0;
         int [] flats;
         flats = new int [5];
@@ -51,7 +52,7 @@ public class T29_PP {
         for (int elements:physicsMarks) {
             sum += elements;
         }
-        System.out.println("Average physics mark of the students is " + sum/physicsMarks.length);
+        System.out.println("Average physics mark of the students are " + sum/physicsMarks.length);
 */
 
 

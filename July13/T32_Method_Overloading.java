@@ -2,7 +2,7 @@ package July13;
 /* The values from the method call (a & b) are copied to the a & b of the function
 * my sum, Thus even if we modify the values a & b inside the method, the values in the
 * main method will not change*/
-/*  Void return type - when we dont want our method to return anything, we use void as the return type
+/*  Void return type - when we don't want our method to return anything, we use void as the return type
 
     Static keyword - Static keyword is used to associate a method of a given class with the class return
     then the object. Static method in a class is shared by all the
