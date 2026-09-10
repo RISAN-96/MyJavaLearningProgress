@@ -151,7 +151,7 @@ public class T19_PP_C4 {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter website url: ");
-        String url =  sc.nextLine();
+        String url = sc.nextLine();
 /*        System.out.println(url.endsWith("com"));
         System.out.println(url.endsWith("org"));
         System.out.println(url.endsWith("bd"));
@@ -170,8 +170,10 @@ public class T19_PP_C4 {
             System.out.println("Commercial website");
         } else if (url.endsWith("org")){
             System.out.println("Organization Website");
-        }  else if (url.endsWith("bd")){
+        } else if (url.endsWith("bd")){
             System.out.println("Bangladeshi website");
+        } else if (url.endsWith("pk")){
+            System.out.println("Pakistani website");
         }
 
 

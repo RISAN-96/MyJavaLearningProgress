@@ -6,7 +6,7 @@ package July17;
 // Example: We use phone without bothering about how it was made.
 
 // Encapsulation -> The act of putting various components together (in a capsule)
-// Example: laptop is a single entity wit hwifi + speaker + storage in a single box!
+// Example: laptop is a single entity with wifi + speaker + storage in a single box!
 
 // In java capsulation simply means that the sensitive data can be hidden from the users
 

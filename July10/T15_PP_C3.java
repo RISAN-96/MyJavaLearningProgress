@@ -17,6 +17,7 @@ public class T15_PP_C3 {
         String name = "Risan";
         System.out.println("Dear "+ name + ", " + "Thanks a lot");
 
+//      or,
         String letter = "Dear <|name|>, Thanks a lot";
         letter= letter.replace("<|name|>", "Risan");
         System.out.println(letter);

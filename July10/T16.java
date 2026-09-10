@@ -10,7 +10,7 @@ public class T16 {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your age: ");
         int age = input.nextInt();
-        if (age < 18) {
+        if (age < 17) {
             System.out.println("You are too young to drive");
         } // else block is optional, if we need it we can use
         else {

@@ -16,6 +16,7 @@ public class T23_ForLoop {
         }
 
         // decrementing for loop
+        System.out.println("Decrementing for loop");
         for (int c=5; c>=0; c--) {
             System.out.println(c);
         }
@@ -25,6 +26,5 @@ public class T23_ForLoop {
         for (int c=x; c>0; c--) {
             System.out.println(c);
         }
-
     }
 }

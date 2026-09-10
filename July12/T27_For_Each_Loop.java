@@ -12,8 +12,9 @@ public class T27_For_Each_Loop {
         System.out.println(Arrays.toString(students));*/
 
         int[]marks={10,20,30,40,50};
-        System.out.println(marks.length);
+        System.out.println("Length = " + marks.length);
         // Displaying the array ( Naive way )
+        System.out.println("         // Displaying the array ( Naive way )");
         System.out.println(marks[0]);
         System.out.println(marks[1]);
         System.out.println(marks[2]);
@@ -21,17 +22,20 @@ public class T27_For_Each_Loop {
         System.out.println(marks[4]);
 
         // Displaying the array ( For loop )
+        System.out.println("        // Displaying the array ( For loop )");
         for (int i=0;i<marks.length;i++) {
             System.out.println(marks[i]); //array traverse method
         }
-
+        System.out.println("        // Quick Quiz - in reverse order");
         // Quick quiz: Write a program to print the elements of an array in reverse order
         // Displaying the array ( For loop ) in reverse order
+        System.out.println("        // Displaying the array in reverse order ( For loop ) in reverse order");
         for(int i=marks.length-1; i>=0; i--) {
             System.out.println(marks[i]);
         }
 
         // Displaying the array ( for each loop )
+        System.out.println("        // Displaying the array ( for each loop )");
         for(int element:marks) {
             System.out.println(element);
         }

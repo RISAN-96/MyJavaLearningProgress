@@ -28,7 +28,6 @@ public class T13 {
         System.out.printf("the value of a is %d & the value for b is %f", a,b);
         System.out.format("the value of a is %d & the value for b is %f", a,b);
 
-
         // SKIP
         System.out.println("END");
 
@@ -42,5 +41,4 @@ public class T13 {
         String n1 = sc.nextLine(); // nextLine takes the whole sentence
         System.out.println(n1);
     }
-
 }

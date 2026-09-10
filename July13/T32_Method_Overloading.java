@@ -11,7 +11,6 @@ package July13;
 
     Method overloading - two or more method having same name but diff parameters.
     Such methods are called overloaded method.
-
     */
 
 import java.sql.SQLOutput;
@@ -79,8 +78,4 @@ public class T32_Method_Overloading {
             foo(10,30); //Arguments are actual!
 
     }
-
-
-
-
 }

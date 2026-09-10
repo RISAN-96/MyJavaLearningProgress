@@ -49,6 +49,8 @@ public class T24_Break_and_Continue {
                 System.out.println("Skipping & continuing the process");
                 continue;
                 // continue statement is used to skip the process, when the condition is true.
+                // aikhane l == 2 mane l er value 2 na howa porjonto skip korbe output/nicher code
+                // l er value 2 hole tarpor thake continue hobe code
             }
             System.out.println(l);
         }
