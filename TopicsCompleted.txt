@@ -38,3 +38,13 @@ T37 Java Tutorial: Basic Terminologies in Object Oriented Programming
 T38 Java Tutorial: Creating Our Own Java Class
 T39 Java Tutorial: Basic Questions on Object Oriented Programming
 T40 Java Tutorial: Access modifiers, getters & setters in Java
+41 Java Tutorial: Exercise 2 - Solution and Shoutouts
+T42 Java Tutorial: Constructors in Java
+T43 Java Exercise 3: Guess the Number (OOPs Edition)
+T44 Java Tutorial: Exercise on Access Modifiers and Constructors
+T45 Inheritance in Java
+T46 Constructors in Inheritance in Java
+T47 this and super keyword in Java
+T48 Method Overriding in Java
+T49 Dynamic Method Dispatch in Java
+T50 Java Tutorial: Exercise 3 - Solutions & Shoutouts
