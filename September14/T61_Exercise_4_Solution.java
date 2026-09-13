@@ -26,6 +26,18 @@ class Library{
         this.no_of_books++;
         System.out.println("Book issued");
     }
+
+    void returnBook(String book){
+        this.books[this.no_of_books] = book;
+        this.no_of_books--;
+        System.out.println("Book returned");
+    }
+
+    void removeBook(String book){
+        this.books[this.no_of_books] = book;
+        this.no_of_books--;
+        System.out.println("Book removed");
+    }
 }
 public class T61_Exercise_4_Solution {
     public static void main(String[] args) {
@@ -36,5 +48,6 @@ public class T61_Exercise_4_Solution {
     CentralLibrary.addBook("JAVA");
     CentralLibrary.printBooks();
     CentralLibrary.issuebook("Harry Potter");
+    CentralLibrary.returnBook("JABAJ RISAN BABA");
     }
 }
