@@ -18,7 +18,7 @@ class myCellPhone2{
         System.out.println("picking call... ");
     }
 }
-class MySmartPhone2 extends myCellPhone implements wifi,camera{
+class MySmartPhone2 extends myCellPhone2 implements wifi2,camera2{
     public void takePicture(){
         System.out.println("Take a picture");
     }
@@ -36,9 +36,10 @@ class MySmartPhone2 extends myCellPhone implements wifi,camera{
 }
 public class T59_Polymorphism_In_interface {
     public static void main(String[] args) {
-//        camera2 cam1 = new MySmartPhone2();
-//        camera2 cam1 = new camera2();
+        camera2 cam1 = new MySmartPhone2(); // this is polymorphism - camera use korte parbo sudhu smartphone er
         cam1.takePicture();
+//        cam1.callNumber(); -- not allowed
 
     }
 }
+// object jody smartphone er ney r referance jody onno kicur ney tahole shey ref er option gulai sudhu use kortec parbo
