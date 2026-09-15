@@ -1,4 +1,4 @@
-package September14;
+package September15;
 
 // void sum (int a, int b); -- here a & b are parameters
 // sum (5,7); -- here 5 , 7 are arguments --  arguments are actual parameters are not
@@ -9,6 +9,7 @@ package September14;
 //  without threading - main -> func1 -> func 2 -> end
 // with threading - (main + func1 + func2) - end
 
+// threads method in java
 
 class MyThread1  extends Thread {
     @Override
@@ -34,7 +35,7 @@ class MyThread2  extends Thread {
     }
 }
 
-public class T70 {
+public class T70_Creating_a_Thread {
     public static void main(String[] args) {
     MyThread1 t1 = new MyThread1();
     t1.start();
